@@ -1,19 +1,18 @@
-
-h2 
-{
-  color: #DB4CC1;
-}
 h1
 {
   color:#1F97C6;
 }
+h1 {
+      font-size:350%;
+    }
+h2 
+{
+  color: #DB4CC1;
+}
+h2 {
+      font-size:100%;
+    }
 body {
     background-color: #B7DAFF;
 }
 
-h1 {
-      font-size:350%;
-    }
-h2 {
-      font-size:100%;
-    }
