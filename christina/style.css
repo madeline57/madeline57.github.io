@@ -5,9 +5,13 @@ h2
 }
 h1
 {
-  color: #2AF5FF; font-size:200%;
+  color: #2AF5FF;
 }
 background
 {
   color: #B7DAFF;
 }
+
+h1 {
+      font-size:350%;
+    }
